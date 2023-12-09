@@ -1,0 +1,16 @@
+.menus{
+
+position: absolute;
+display: inline-block;
+
+
+}
+nav{
+
+
+float: left;
+position: absolute;
+display: inline;
+color: red;
+
+}
